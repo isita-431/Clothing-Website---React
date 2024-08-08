@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CLOTHING WEBSITE
 
 ## Available Scripts
 
